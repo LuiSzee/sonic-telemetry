@@ -5,7 +5,7 @@ import (
 	"fmt"
 	spb "github.com/Azure/sonic-telemetry/proto"
 	log "github.com/golang/glog"
-	"github.com/google/gnxi/utils"
+	"github.com/1lily/gnxi/utils"
 	gpb "github.com/openconfig/gnmi/proto/gnmi"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
